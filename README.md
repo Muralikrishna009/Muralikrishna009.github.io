@@ -1,3 +1,4 @@
-# sampleweb.github.io
+# Profile
+# Author : Murali Krishna
 
-This is a sample website 
+digital resume
